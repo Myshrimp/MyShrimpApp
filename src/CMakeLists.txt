@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.15)
+project(app)
+aux_source_directory(./ SRC)
+include_directories(${HEADPATH})
+link_directories(${LIBPATH})
+set(EXECUTABLE_OUTPUT_PATH ${EXECPATH})
+add_executable(${SYSTEMAPP} ${SRC})
