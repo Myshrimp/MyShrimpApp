@@ -1,0 +1,10 @@
+^E:\PROJECTS\GITPROJECT\MYSHRIMP\PURE\MYSHRIMPAPP\CMAKEFILES\276160FAC880A7AAFD9C801ED8010FFF\GENERATE.STAMP.RULE
+setlocal
+"D:\visual studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/Projects/GitProject/myshrimp/Pure/MyShrimpApp -BE:/Projects/GitProject/myshrimp/Pure/MyShrimpApp --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/system.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

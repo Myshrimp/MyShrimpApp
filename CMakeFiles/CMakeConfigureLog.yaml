@@ -24,7 +24,7 @@ events:
       The output was:
       0
       适用于 .NET Framework MSBuild 版本 17.7.2+d6990bcfa
-      生成启动时间为 2023/8/31 17:52:08。
+      生成启动时间为 2023/9/1 7:40:32。
       
       节点 1 上的项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\3.26.4-msvc4\\CompilerIdC\\CompilerIdC.vcxproj”(默认目标)。
       PrepareForBuild:
@@ -52,7 +52,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:00.80
+      已用时间 00:00:00.70
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -78,7 +78,7 @@ events:
       The output was:
       0
       适用于 .NET Framework MSBuild 版本 17.7.2+d6990bcfa
-      生成启动时间为 2023/8/31 17:52:09。
+      生成启动时间为 2023/9/1 7:40:32。
       
       节点 1 上的项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\3.26.4-msvc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)。
       PrepareForBuild:
@@ -106,7 +106,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:00.59
+      已用时间 00:00:00.57
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,8 +125,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-xv7zek"
-      binary: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-xv7zek"
+      source: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-tzztqb"
+      binary: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-tzztqb"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -135,38 +135,38 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-xv7zek
+        Change Dir: E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-tzztqb
         
-        Run Build Command(s):D:/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_bffea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 适用于 .NET Framework MSBuild 版本 17.7.2+d6990bcfa
-        生成启动时间为 2023/8/31 17:52:09。
+        Run Build Command(s):D:/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6eb65.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 适用于 .NET Framework MSBuild 版本 17.7.2+d6990bcfa
+        生成启动时间为 2023/9/1 7:40:33。
         
-        节点 1 上的项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-xv7zek\\cmTC_bffea.vcxproj”(默认目标)。
+        节点 1 上的项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-tzztqb\\cmTC_6eb65.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_bffea.dir\\Debug\\”。
-          正在创建目录“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-xv7zek\\Debug\\”。
-          正在创建目录“cmTC_bffea.dir\\Debug\\cmTC_bffea.tlog\\”。
+          正在创建目录“cmTC_6eb65.dir\\Debug\\”。
+          正在创建目录“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-tzztqb\\Debug\\”。
+          正在创建目录“cmTC_6eb65.dir\\Debug\\cmTC_6eb65.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_bffea.dir\\Debug\\cmTC_bffea.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_bffea.dir\\Debug\\cmTC_bffea.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_6eb65.dir\\Debug\\cmTC_6eb65.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_6eb65.dir\\Debug\\cmTC_6eb65.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bffea.dir\\Debug\\\\" /Fd"cmTC_bffea.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6eb65.dir\\Debug\\\\" /Fd"cmTC_6eb65.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x64
           CMakeCCompilerABI.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bffea.dir\\Debug\\\\" /Fd"cmTC_bffea.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6eb65.dir\\Debug\\\\" /Fd"cmTC_6eb65.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
         Link:
-          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-xv7zek\\Debug\\cmTC_bffea.exe" /INCREMENTAL /ILK:"cmTC_bffea.dir\\Debug\\cmTC_bffea.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-xv7zek/Debug/cmTC_bffea.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-xv7zek/Debug/cmTC_bffea.lib" /MACHINE:X64  /machine:x64 cmTC_bffea.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_bffea.vcxproj -> E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-xv7zek\\Debug\\cmTC_bffea.exe
+          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-tzztqb\\Debug\\cmTC_6eb65.exe" /INCREMENTAL /ILK:"cmTC_6eb65.dir\\Debug\\cmTC_6eb65.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-tzztqb/Debug/cmTC_6eb65.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-tzztqb/Debug/cmTC_6eb65.lib" /MACHINE:X64  /machine:x64 cmTC_6eb65.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_6eb65.vcxproj -> E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-tzztqb\\Debug\\cmTC_6eb65.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_bffea.dir\\Debug\\cmTC_bffea.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_bffea.dir\\Debug\\cmTC_bffea.tlog\\cmTC_bffea.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-xv7zek\\cmTC_bffea.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_6eb65.dir\\Debug\\cmTC_6eb65.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_6eb65.dir\\Debug\\cmTC_6eb65.tlog\\cmTC_6eb65.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-tzztqb\\cmTC_6eb65.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:00.72
+        已用时间 00:00:00.71
         
       exitCode: 0
   -
@@ -178,8 +178,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-u5cyan"
-      binary: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-u5cyan"
+      source: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-dypqlw"
+      binary: "E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-dypqlw"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -188,38 +188,38 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-u5cyan
+        Change Dir: E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-dypqlw
         
-        Run Build Command(s):D:/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c3e7e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 适用于 .NET Framework MSBuild 版本 17.7.2+d6990bcfa
-        生成启动时间为 2023/8/31 17:52:10。
+        Run Build Command(s):D:/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7f377.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 适用于 .NET Framework MSBuild 版本 17.7.2+d6990bcfa
+        生成启动时间为 2023/9/1 7:40:34。
         
-        节点 1 上的项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-u5cyan\\cmTC_c3e7e.vcxproj”(默认目标)。
+        节点 1 上的项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-dypqlw\\cmTC_7f377.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_c3e7e.dir\\Debug\\”。
-          正在创建目录“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-u5cyan\\Debug\\”。
-          正在创建目录“cmTC_c3e7e.dir\\Debug\\cmTC_c3e7e.tlog\\”。
+          正在创建目录“cmTC_7f377.dir\\Debug\\”。
+          正在创建目录“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-dypqlw\\Debug\\”。
+          正在创建目录“cmTC_7f377.dir\\Debug\\cmTC_7f377.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_c3e7e.dir\\Debug\\cmTC_c3e7e.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_c3e7e.dir\\Debug\\cmTC_c3e7e.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_7f377.dir\\Debug\\cmTC_7f377.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_7f377.dir\\Debug\\cmTC_7f377.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c3e7e.dir\\Debug\\\\" /Fd"cmTC_c3e7e.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_7f377.dir\\Debug\\\\" /Fd"cmTC_7f377.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x64
           CMakeCXXCompilerABI.cpp
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c3e7e.dir\\Debug\\\\" /Fd"cmTC_c3e7e.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_7f377.dir\\Debug\\\\" /Fd"cmTC_7f377.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\visual studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-u5cyan\\Debug\\cmTC_c3e7e.exe" /INCREMENTAL /ILK:"cmTC_c3e7e.dir\\Debug\\cmTC_c3e7e.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-u5cyan/Debug/cmTC_c3e7e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-u5cyan/Debug/cmTC_c3e7e.lib" /MACHINE:X64  /machine:x64 cmTC_c3e7e.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_c3e7e.vcxproj -> E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-u5cyan\\Debug\\cmTC_c3e7e.exe
+          D:\\visual studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-dypqlw\\Debug\\cmTC_7f377.exe" /INCREMENTAL /ILK:"cmTC_7f377.dir\\Debug\\cmTC_7f377.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-dypqlw/Debug/cmTC_7f377.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/CMakeScratch/TryCompile-dypqlw/Debug/cmTC_7f377.lib" /MACHINE:X64  /machine:x64 cmTC_7f377.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_7f377.vcxproj -> E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-dypqlw\\Debug\\cmTC_7f377.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_c3e7e.dir\\Debug\\cmTC_c3e7e.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_c3e7e.dir\\Debug\\cmTC_c3e7e.tlog\\cmTC_c3e7e.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-u5cyan\\cmTC_c3e7e.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_7f377.dir\\Debug\\cmTC_7f377.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_7f377.dir\\Debug\\cmTC_7f377.tlog\\cmTC_7f377.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“E:\\Projects\\GitProject\\myshrimp\\Pure\\MyShrimpApp\\CMakeFiles\\CMakeScratch\\TryCompile-dypqlw\\cmTC_7f377.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:00.69
+        已用时间 00:00:00.71
         
       exitCode: 0
 ...
