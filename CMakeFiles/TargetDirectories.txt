@@ -1,0 +1,4 @@
+E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/ALL_BUILD.dir
+E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/CMakeFiles/ZERO_CHECK.dir
+E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/src/CMakeFiles/app.dir
+E:/Projects/GitProject/myshrimp/Pure/MyShrimpApp/src/CMakeFiles/ALL_BUILD.dir
